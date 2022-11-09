@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arianTM
-- 👀 I’m interested in backend development
-- 🌱 I’m currently learning Python and MongoDB
-- 💞️ I’m looking to collaborate on web developmente
+- 👀 I’m interested in frontend development
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me --> atapiamotta@gmail.com
 
 <!---
